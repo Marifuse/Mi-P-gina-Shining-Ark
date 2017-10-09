@@ -1,7 +1,28 @@
+
 body {text-align: center;
   }
-.cuadrado-color {background-color: #2E64FE}
+.cuadrado-color {background-color: #000000 }
 h1 {font-family: Germania One;}
+h1{
+  color: #FF0000;
+}
+hr{
+  height:5px;
+  background-color:#ff0000;
+  border:none;
+}
 p{
-  color: #0B0B3B;
+  color: #FF0000;
+}
+h2{
+  color: #FF0000;
+}
+h3{
+  color: #FF0000;
+}
+h4{
+  color: #FF0000;
+}
+h5{
+  color: #FF0000;
 }
